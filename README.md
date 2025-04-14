@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p align="center">
-   <img src="" alt="Banner">
+   <img src="images/banner.jpg" alt="Banner">
 </p>
 <p align="center">
   <a href="https://t.me/sunr4ze0x">
