@@ -3,7 +3,7 @@
 <p align="center">
    <img src="" alt="Banner">
 </p>
-<p>
+<p align="center">
   <a href="https://t.me/sunr4ze0x">
    <img src="https://img.shields.io/badge/Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=229ED9&labelColor=20232a" alt="Telegram Channel">
  </a>
