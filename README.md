@@ -2,16 +2,14 @@
    <img src="images/banner.jpg" alt="Banner">
 </p>
 <p align="center">
-  <a href="https://t.me/sunr4ze0x">
-   <img src="https://img.shields.io/badge/Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=229ED9&labelColor=20232a" alt="Telegram Channel">
- </a>
   <a href="https://t.me/soclichez">
      <img src="https://img.shields.io/badge/DM-0d1117?style=for-the-badge&logo=telegram&logoColor=229ED9&labelColor=20232a" alt="DM"> 
   </a>
+  <a href="https://t.me/sunr4ze0x">
+   <img src="https://img.shields.io/badge/Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=229ED9&labelColor=20232a" alt="Telegram Channel">
+ </a>
 </p>
 
-&nbsp
-     
 
 <!--
 **overcodeme/overcodeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
